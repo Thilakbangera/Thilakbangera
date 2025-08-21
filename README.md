@@ -29,3 +29,7 @@
 - 🖥 **Frameworks & IDEs**: 
   ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-circle&logo=eclipse)
+
+  <p align="center">
+<img src="https://raw.githubusercontent.com/Thilakbangera/github-stats-terminal-style/master/github_stats.svg">
+
