@@ -30,14 +30,6 @@
   ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-circle&logo=eclipse)
 
-# 🖥 Terminal-style GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Thilakbangera&theme=merko&hide_title=true">
-</p>
-
----
-
 # 🌟 GitHub Streak
 
 <p align="center">
