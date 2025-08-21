@@ -54,5 +54,8 @@
 <p align="center">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Thilakbangera&theme=merko&layout=compact&border_color=599200&langs_count=6">
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&text=Thank+You+for+Visiting!&fontSize=20&color=0:b579da,100:79da7f">
+</p>
 
 
