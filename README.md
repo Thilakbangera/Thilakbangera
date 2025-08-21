@@ -56,7 +56,8 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&text=Thank+You+for+Visiting!&fontSize=30&color=0:b579da,100:79da7f&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&text=Thank+You+for+Visiting!&fontSize=30&color=0:b579da,100:79da7f&fontColor=ffff00">
 </p>
+
 
 
