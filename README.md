@@ -1,5 +1,14 @@
 ## Hi there 👋
 ---
+
+# 🎯 Career Objective
+
+<p align="center">
+Seeking a growth-oriented role in a progressive organization where I can leverage my expertise in <b>AI</b> and <b>machine learning</b> to develop innovative solutions, while expanding my knowledge in a team-driven environment.
+</p>
+
+---
+
 # 🌐 Connect with Me
 
 <p align="center">
