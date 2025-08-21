@@ -1,4 +1,5 @@
-## Hi there 👋
+[<img src="https://raw.githubusercontent.com/Thilakbangera/Thilakbangera/main/intro.gif" alt="👋 Hi there! I'm Thilak" title="👋 Hi there! I'm Thilak"/>](https://github.com/Thilakbangera)
+
 ---
 
 # 🎯 Career Objective
