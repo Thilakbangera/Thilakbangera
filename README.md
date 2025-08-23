@@ -5,6 +5,7 @@
 # 🎯 Career Objective
 
 <p>
+I am pursuing B.E in Artificial Intelligence & Data Science at SMVITM, Bantakal (VTU).
 Seeking a growth-oriented role in a progressive organization where I can leverage my expertise in <b>AI</b> and <b>machine learning</b> to develop innovative solutions, while expanding my knowledge in a team-driven environment.
 </p>
 
