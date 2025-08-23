@@ -62,7 +62,7 @@ Top 10% – SAP Hackfest 2025: Led 5-member team to top 400 out of 4,000 with AI
 <br>
 <img src="https://img.shields.io/badge/SAP-Hackfest-blue?style=flat-square&logo=sap"/>  
 
-<br><br>
+<br>
 
 Certified in Google Advanced Data Analytics through Coursera.  
 <br>
@@ -70,15 +70,15 @@ Certified in Google Advanced Data Analytics through Coursera.
   <img src="https://img.shields.io/badge/Coursera-Advanced%20Data%20Analytics-0056D2?style=flat-square&logo=coursera"/>
 </a>  
 
-<br><br>
+<br>
 
 Shortlisted – Infosys Internship 6.0: Cleared prerequisites and assessments on Springboard.  
 <br>
 <img src="https://img.shields.io/badge/Infosys-Internship%206.0-00AEEF?style=flat-square&logo=infosys"/>  
 
-<br><br>
+<br>
 
-Secured third place in Line Follower Competition at TECHFEST, SMVITM.  
+Secured second place in Line Follower Competition at TECHFEST, SMVITM.  
 <br>
 <img src="https://img.shields.io/badge/TECHFEST%202025-Line%20Follower%20Competition-orange?style=flat-square&logo=robotframework"/>  
 
