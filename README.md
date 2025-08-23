@@ -21,6 +21,8 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
   </a>
 </p>
 
+---
+
 # 🛠 Tech Stack
 
 > Skills based on my experience and expertise
@@ -51,7 +53,6 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
   ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-circle&logo=eclipse)
 
----
 ---
 
 # 🏅 Certifications & Achievements  
@@ -84,6 +85,7 @@ Secured second place in Line Follower Competition at TECHFEST, SMVITM.
 
 </p>
 
+---
 
 # 🌟 GitHub Streak
 
