@@ -51,6 +51,42 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
   ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-circle&logo=eclipse)
 
+---
+
+# 🏅 Certifications & Achievements  
+
+<p align="center">
+
+🥇 **Top 10% – SAP Hackfest 2025**  
+Led a 5-member team to secure a spot in the **Top 400 out of 4,000 teams** with an innovative AI solution.  
+<br>
+<img src="https://img.shields.io/badge/SAP-Hackfest-blue?style=flat-square&logo=sap"/>
+
+<br><br>
+
+📜 **Google Advanced Data Analytics (Coursera)**  
+Successfully completed and certified in advanced data analytics concepts and applications.  
+<br>
+<a href="https://coursera.org/share/958b34547571b8efbeaaef9b6624c7ee">
+  <img src="https://img.shields.io/badge/Coursera-Advanced%20Data%20Analytics-0056D2?style=flat-square&logo=coursera"/>
+</a>
+
+<br><br>
+
+🎯 **Infosys Internship 6.0 (Shortlisted)**  
+Cleared prerequisites and assessments on Springboard and was shortlisted for the program.  
+<br>
+<img src="https://img.shields.io/badge/Infosys-Internship%206.0-00AEEF?style=flat-square&logo=infosys"/>
+
+<br><br>
+
+🏆 **Line Follower Competition – 2nd Place**  
+Secured **Second Place** at **TECHFEST 2025**, organized by Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM).  
+<br>
+<img src="https://img.shields.io/badge/TECHFEST%202025-Line%20Follower%20Competition-orange?style=flat-square&logo=robotframework"/>
+
+</p>
+
 # 🌟 GitHub Streak
 
 <p align="center">
