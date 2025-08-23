@@ -25,21 +25,21 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
 
 > Skills based on my experience and expertise
 
-- 🔭 **Programming Languages**: 
+- 🔭 **Programming Languages**:<b>
   ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) 
   ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) 
   ![C](https://img.shields.io/badge/-C-blue?style=flat-circle&logo=c) 
   ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5)
 
-- 💾 **Databases**: 
+- 💾 **Databases**: <b>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) 
   ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-circle&logo=mysql)
 
-- 🤖 **Core Competencies**: 
+- 🤖 **Core Competencies**: <b>
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green?style=flat-circle) 
   ![DSA](https://img.shields.io/badge/-DSA-red?style=flat-circle&logo=algorithm)
 
-- 🛠 **Tools & Technologies**: 
+- 🛠 **Tools & Technologies**:<b> 
   ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-circle&logo=tableau) 
   ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-circle&logo=power-bi) 
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-circle&logo=flutter) 
@@ -47,45 +47,43 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
   ![Pig](https://img.shields.io/badge/-Apache%20Pig-red?style=flat-circle&logo=apache) 
   ![Big Data](https://img.shields.io/badge/-Big%20Data-yellow?style=flat-circle)
 
-- 🖥 **Frameworks & IDEs**: 
+- 🖥 **Frameworks & IDEs**: <b>
   ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-circle&logo=eclipse)
 
+---
 ---
 
 # 🏅 Certifications & Achievements  
 
 <p align="center">
 
-🥇 **Top 10% – SAP Hackfest 2025**  
-Led a 5-member team to secure a spot in the **Top 400 out of 4,000 teams** with an innovative AI solution.  
+Top 10% – SAP Hackfest 2025: Led 5-member team to top 400 out of 4,000 with AI solution.  
 <br>
-<img src="https://img.shields.io/badge/SAP-Hackfest-blue?style=flat-square&logo=sap"/>
+<img src="https://img.shields.io/badge/SAP-Hackfest-blue?style=flat-square&logo=sap"/>  
 
 <br><br>
 
-📜 **Google Advanced Data Analytics (Coursera)**  
-Successfully completed and certified in advanced data analytics concepts and applications.  
+Certified in Google Advanced Data Analytics through Coursera.  
 <br>
 <a href="https://coursera.org/share/958b34547571b8efbeaaef9b6624c7ee">
   <img src="https://img.shields.io/badge/Coursera-Advanced%20Data%20Analytics-0056D2?style=flat-square&logo=coursera"/>
-</a>
+</a>  
 
 <br><br>
 
-🎯 **Infosys Internship 6.0 (Shortlisted)**  
-Cleared prerequisites and assessments on Springboard and was shortlisted for the program.  
+Shortlisted – Infosys Internship 6.0: Cleared prerequisites and assessments on Springboard.  
 <br>
-<img src="https://img.shields.io/badge/Infosys-Internship%206.0-00AEEF?style=flat-square&logo=infosys"/>
+<img src="https://img.shields.io/badge/Infosys-Internship%206.0-00AEEF?style=flat-square&logo=infosys"/>  
 
 <br><br>
 
-🏆 **Line Follower Competition – 2nd Place**  
-Secured **Second Place** at **TECHFEST 2025**, organized by Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM).  
+Secured third place in Line Follower Competition at TECHFEST, SMVITM.  
 <br>
-<img src="https://img.shields.io/badge/TECHFEST%202025-Line%20Follower%20Competition-orange?style=flat-square&logo=robotframework"/>
+<img src="https://img.shields.io/badge/TECHFEST%202025-Line%20Follower%20Competition-orange?style=flat-square&logo=robotframework"/>  
 
 </p>
+
 
 # 🌟 GitHub Streak
 
