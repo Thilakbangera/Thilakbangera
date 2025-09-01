@@ -56,6 +56,39 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
 
 ---
 
+# 🚀 Projects
+
+<p align="center">
+
+## [Gold Price Prediction using ML](https://dfiue.netlify.app/)  
+<img src="https://img.shields.io/badge/Gold%20Price%20Forecast-ML%20Models-yellow?style=flat-square&logo=python"/>  
+- Engineered a gold price forecasting pipeline using a **7-day sliding window** on historical price data.  
+- Implemented **Linear Regression, KNN, Random Forest, XGBoost, SARIMAX** and compared performance.  
+- **Best Model (SARIMAX):** RMSE: 17.24, MAE: 12.97, MAPE: 0.69% – improved accuracy by **20%+ over baseline**.  
+- [Live App](https://gold.streamlit.app) | [Project Report](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
+
+---
+
+## [AI-Powered Kitchen Assistant](https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app/)  
+<img src="https://img.shields.io/badge/AI%20Kitchen%20Assistant-Streamlit%20App-green?style=flat-square&logo=streamlit"/>  
+- Built a **Streamlit-based AI recipe platform** that fetches **2,500+ real-time recipes** using Spoonacular API.  
+- Integrated **Tavily API chatbot** for live Q&A, cooking steps, and ingredient checks.  
+- Delivers **personalized recipe results in under 2 seconds**, enhancing user experience.  
+- [Live App](https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app)  
+
+---
+
+## [Digital Doppelgänger Detector](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
+<img src="https://img.shields.io/badge/Deepfake%20Detector-Multi%20Modal-blueviolet?style=flat-square&logo=ai"/>  
+- Designed a **deepfake detection system** using Transformer (text), ResNet18 (image), and EfficientNet (video).  
+- Built a **Streamlit + FastAPI interface** delivering **real-time predictions (<5s)** per input.  
+- Detects **text, image, and video deepfakes** with robust cross-modal performance.  
+- [Watch Demo](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
+
+</p>
+
+---
+
 # 🏅 Certifications & Achievements  
 
 <p align="center">
