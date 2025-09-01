@@ -56,36 +56,29 @@ Seeking a growth-oriented role in a progressive organization where I can leverag
 
 ---
 
-# 🚀 Projects
+# Projects
 
-<p align="center">
-
-## [Gold Price Prediction using ML](https://dfiue.netlify.app/)  
-<img src="https://img.shields.io/badge/Gold%20Price%20Forecast-ML%20Models-yellow?style=flat-square&logo=python"/>  
-- Engineered a gold price forecasting pipeline using a **7-day sliding window** on historical price data.  
-- Implemented **Linear Regression, KNN, Random Forest, XGBoost, SARIMAX** and compared performance.  
-- **Best Model (SARIMAX):** RMSE: 17.24, MAE: 12.97, MAPE: 0.69% – improved accuracy by **20%+ over baseline**.  
-- [Live App](https://gold.streamlit.app) | [Project Report](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
+### Gold Price Prediction using ML  
+Developed a gold price forecasting pipeline using a 7-day sliding window on historical data.  
+Implemented and compared Linear Regression, KNN, Random Forest, XGBoost, and SARIMAX models.  
+Best performance achieved with SARIMAX (RMSE: 17.24, MAE: 12.97, MAPE: 0.69%), improving accuracy by over 20% from baseline.  
+Link: [https://dfiue.netlify.app/](https://dfiue.netlify.app/)  
 
 ---
 
-## [AI-Powered Kitchen Assistant](https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app/)  
-<img src="https://img.shields.io/badge/AI%20Kitchen%20Assistant-Streamlit%20App-green?style=flat-square&logo=streamlit"/>  
-- Built a **Streamlit-based AI recipe platform** that fetches **2,500+ real-time recipes** using Spoonacular API.  
-- Integrated **Tavily API chatbot** for live Q&A, cooking steps, and ingredient checks.  
-- Delivers **personalized recipe results in under 2 seconds**, enhancing user experience.  
-- [Live App](https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app)  
+### AI-Powered Kitchen Assistant  
+Built a Streamlit-based recipe platform fetching 2,500+ real-time recipes via Spoonacular API.  
+Integrated a Tavily API chatbot to provide live Q&A, step-by-step cooking guidance, and ingredient checks.  
+Delivers personalized results in under 2 seconds.  
+Link: [https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app](https://aikitchenassistant-q7tmin8fcvkawhsgc8pwyz.streamlit.app)  
 
 ---
 
-## [Digital Doppelgänger Detector](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
-<img src="https://img.shields.io/badge/Deepfake%20Detector-Multi%20Modal-blueviolet?style=flat-square&logo=ai"/>  
-- Designed a **deepfake detection system** using Transformer (text), ResNet18 (image), and EfficientNet (video).  
-- Built a **Streamlit + FastAPI interface** delivering **real-time predictions (<5s)** per input.  
-- Detects **text, image, and video deepfakes** with robust cross-modal performance.  
-- [Watch Demo](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
-
-</p>
+### Digital Doppelgänger Detector  
+Created a multi-modal deepfake detection system using Transformer for text, ResNet18 for images, and EfficientNet for video.  
+Built a Streamlit + FastAPI interface providing real-time predictions under 5 seconds per input.  
+Enables robust detection of deepfakes across text, image, and video formats.  
+Link: [https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk](https://drive.google.com/file/d/1hylgQoZY1b0ixMPC8vQ12DkzulTBQAnK/view?usp=drivesdk)  
 
 ---
 
